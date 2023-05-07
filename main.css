@@ -1,0 +1,141 @@
+
+#logonavbar {
+    margin-left: 2rem;
+    width: 80px;
+    height: 80px;
+}
+
+#ponude{
+    color: #ffffff;
+    background-color: #1D1D23;
+    border-radius: 10px;
+    border: 7px solid #1D1D23;
+    min-width: 370px;
+}
+
+#glavnaponuda{
+    padding: auto;
+    color: #1D1D23;
+    background-color: #008276;
+    border-radius: 10px;
+    border: 7px solid #1D1D23;
+    min-width: 370px;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
+
+#slika{
+    height: 300px;
+    width: 300px;
+}
+
+#dugmenavbar {
+    color: #ffffff;
+    border-color: #1D1D23;
+    background-color: #1D1D23;
+}
+
+.container-fluid{
+    min-height: 350px;
+}
+.footer{
+    color: #ffffff;
+    padding-top: 2em;
+    min-height: 300px;
+    background-color: #1D1D23;
+}
+
+#nav_div{
+    background-color: #1D1D23;
+}
+
+#domeni{
+    min-height: 400px;
+    background-color: #1D1D23;
+    color: #ffffff;
+}
+
+.container{
+    padding-top: 25px;
+}
+#najkvalitetnijihosting{
+background-color: #B0C1E3;
+}
+
+#zastitavpodataka{
+background-color:#ffffff;
+}
+
+#pozovitenas{
+    min-height: 300px;
+    background-color: #008276;
+}
+
+#dugmestranice{
+    background-color: #F0F465;
+    margin-bottom: 1rem;
+    border-radius: 30px;
+    width: 250px;
+}
+
+#dugmeponuda{
+    background-color: #F0F465;
+    margin-left: 6rem;
+    border-radius: 30px;
+    width: 150px;
+}
+
+#poljedomena{
+    margin-bottom: 1rem;
+    border-radius: 30px;
+    width: 250px;
+}
+
+#logoblok{
+    color: #ffffff;
+    background-color: #1D1D23;
+    max-width: 300px;
+}
+
+#biznishosting{
+    border-radius: 20px;
+    margin-top: 2rem;
+    max-width: 900px;
+    color: #ffffff;
+    background-color: #1D1D23;
+    padding-bottom: 2em;
+}
+#ponudedrugihstrana{
+    padding-left: auto;
+    padding-top: 2em;
+    padding-left: 2em;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: #ffffff;
+    background-color: #1D1D23;
+    border-radius: 20px;
+    max-width: 350px;
+    min-height: 300px;
+}
+
+#ponudedrugihstrana2{
+    padding-left: auto;
+    padding-top: 2em;
+    padding-left: 2em;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: #1D1D23;
+    background-color: #F0F465;
+    border-radius: 20px;
+    max-width: 350px;
+    min-height: 300px;
+}
+
+#ponudebiznisablok{
+    background-color: #ffffff;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
